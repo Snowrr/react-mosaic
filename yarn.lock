@@ -1426,6 +1426,11 @@ dnd-multi-backend@^8.0.0:
   resolved "https://registry.yarnpkg.com/dnd-multi-backend/-/dnd-multi-backend-8.0.0.tgz#54c63d9ec12f71b7b13ac53971f60d70e2bc5487"
   integrity sha512-5iFo8USv3+q0kVRTm9zsuyi/5GRZEA6fDZKr9ZpmV5pUdHmL9ktL/2c2Anw8T2tnpDDw8FM3k2cvqyMAKhWd/w==
 
+dnd-multi-backend@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/dnd-multi-backend/-/dnd-multi-backend-8.0.1.tgz#118311b998c0e142013de3aea8fc9ed8e9e7108d"
+  integrity sha512-2HLUzxU32ol+COX8klzwy41mA3wOPuSH+08vGmN9WfyrlM3cMcRWFYRStUJkR3obGVUUuQxEtg0m50VxMCHafA==
+
 dns-equal@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/dns-equal/-/dns-equal-1.0.0.tgz#b39e7f1da6eb0a75ba9c17324b34753c47e0654d"
@@ -3624,12 +3629,12 @@ raw-body@2.5.1:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-rdndmb-html5-to-touch@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/rdndmb-html5-to-touch/-/rdndmb-html5-to-touch-8.0.0.tgz#ccc0088fcf431eb4e50853a37a375012afbc24b6"
-  integrity sha512-pBWigLQKJMD4hV+dwcEqcDB4dgGD7LD2ZCtT2gi8Yw4cef2pmp/ZvPZpYVxpAesJXOIDNFhmtYzZIsf9noKHmQ==
+rdndmb-html5-to-touch@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/rdndmb-html5-to-touch/-/rdndmb-html5-to-touch-8.0.1.tgz#fbb08d92238e15710e302bfe3eb6ad956d3eb5a3"
+  integrity sha512-p2va3HLxCMbSeuD4o8z+iJAetxmbzWgrI1x1PDvt2A0QMWRUt7JZ9jGCi+6a/00NVDAxfxuc58euKR91UMo4Lg==
   dependencies:
-    dnd-multi-backend "^8.0.0"
+    dnd-multi-backend "^8.0.1"
     react-dnd-html5-backend "^16.0.1"
     react-dnd-touch-backend "^16.0.1"
 
